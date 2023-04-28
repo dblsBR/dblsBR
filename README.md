@@ -1,7 +1,7 @@
-- Hi, my name is Daniel and I am a Industrial Engineering Ph.D. student at Clemson University.
+- Hi, my name is Daniel and I am an Industrial Engineering Ph.D. student at Clemson University.
 - I am interested in the theory and applications of network optimization.
 - I am currently working in two broad projects: 
-*   (1) efficiently modeling and disrupting human trafficking networks, 
+*   (1) modeling efficient disruption of human trafficking networks, 
 *   (2) methods for estmating the survival signature and the reliability of heterogeneous networked systems.
 
 - You can reach me at: dlopesd@clemson.edu
