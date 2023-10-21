@@ -5,7 +5,7 @@
 *   (2) methods for estmating the survival signature and the reliability of heterogeneous networked systems.
 
 - You can reach me at: dlopesd@clemson.edu
-- My CV can be found here (last update June 2023): [CV_DanielLSilva](https://github.com/dblsBR/dblsBR/blob/a286021bda38bcabc6abb9b2f92a10984208eda2/CV_DanielSilva.pdf)
+- My CV can be found here (last update June 2023): [CV_DanielLSilva](https://github.com/dblsBR/dblsBR/blob/ec8969e682a9180dcc32a024bef96ebc7c010129/CV_DanielSilva.pdf)
 
 <!---
 dblsBR/dblsBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
