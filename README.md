@@ -23,6 +23,8 @@ I am the current president of the INFORMS Student Chapter at Clemson University 
 During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [1](https://www.facebook.com/petengenharias), [2](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program in Engineering), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities. During
 
 
+![](https://github.com/dblsBR/dblsBR/blob/0ae4fb3c44dbffc6dd47d898095f9fc415260fa3/PET_1.jpg = 200x150)
+
 
 <!---
 dblsBR/dblsBR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
