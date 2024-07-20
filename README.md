@@ -8,8 +8,8 @@ My main research interests include Operations Research (OR) (with a special focu
 *   (1) modeling efficient disruption of human trafficking networks (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)); and 
 *   (2) methods for estmating the survival signature of heterogeneous networks (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
-### Updates:
-=> Our paper "An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes" was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly!!
+### Research Updates:
+* Our paper (with Dr. Kelly Sullivan, UARK) "An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes" was accepted for publication (July 2024) in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly!! This is a really nice paper in general, combining new and classical ideas in a smart way to develop an efficient method to estimate the survival signature of hetereogeneous networks. If you are into reliability, network flow, multi-objective optimization, or even if you are just curious in general, check it out.
 
 I am the current president of the INFORMS Student Chapter at Clemson University (2023-2024) [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/), after having served as its vice-president in the 2022-2023 academic term. I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there.
 
