@@ -1,6 +1,6 @@
 # Daniel B Lopes da Silva
 
-Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. I am passionate about Engineering Education and my long-term career goal is to become a professor.
+Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. I am passionate about Engineering Education and my long-term career goal is to become a professor. Check out my pages to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220194322980245504/), [X/Twitter](https://twitter.com/DbrunoLopes).
 
 ## Research Activities:
 
