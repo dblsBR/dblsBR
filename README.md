@@ -21,7 +21,7 @@ My main research interests include Operations Research (OR) (with a special focu
 1. **Modeling efficient disruption of human trafficking networks** (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)):
 
 This is an incredible transdisciplinary project consisting of researchers (at all levels) from Clemson University (advisors Dr. Thomas Sharkey and Dr. Yongjia Song), Northeastern University (advisor Dr. [Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/)),
-University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. [Kelle Barrick](https://www.rti.org/expert/kelle-barrick), as well as a survivor-centered advisory group. 
+University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. [Kelle Barrick](https://www.rti.org/expert/kelle-barrick)), as well as a survivor-centered advisory group. 
 
 **Papers:**
 * **Lopes da Silva, D.B.**, Sharkey, T., Song, Y.,_A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.);
