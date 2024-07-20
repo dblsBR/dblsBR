@@ -17,19 +17,19 @@ My CV can be found here (last update July 2024): [CV_DanielSilva](https://github
 
 My main research interests include Operations Research (OR) (with a special focus in OR for Social Good) and the theory and applications of network optimization (interdiction, reliability, and resiliency). I am currently working in two really exciting projects: 
 
-1. Modeling efficient disruption of human trafficking networks (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)):
+1. **Modeling efficient disruption of human trafficking networks** (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)):
 
 This is an incredible transdisciplinary project consisting of researchers (at all levels) from Clemson University (advisors Dr. Thomas Sharkey and Dr. Yongjia Song), Northeastern University (advisor Dr. [Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/)),
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. Kelle Barrick(https://www.rti.org/expert/kelle-barrick), as well as a survivor-centered advisory group. 
 
 **Papers:**
 
-* A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.)
-* Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
-* A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption (working paper);
+* _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.)
+* _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
+* _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper);
 
 
-2. Methods for estmating the survival signature of heterogeneous networks (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
+2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
 This is an incredible transdisciplinary project consisting of researchers (at all levels) from Clemson University (advisors Dr. Thomas Sharkey and Dr. Yongjia Song), Northeastern University (advisor Dr. [Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/)),
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. Kelle Barrick[https://www.rti.org/expert/kelle-barrick]), as well as a survivor-centered advisory group.
