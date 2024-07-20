@@ -36,7 +36,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 ## Teaching
 
-I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistance for the physics class.
+I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistant for the physics class.
 
 During my bachelor's degree, I had the chance to be an official (and extra-official) TA for a bunch of courses such as introduction to programming, analytical geometry, calculus, and operations research. During my first M.S. degree in Industrial Engineering (Optimization) at the [Federal University of Pernambuco, Brazil](https://www.ufpe.br/en/dep), I was a partial TA for the graph theory class.
 
