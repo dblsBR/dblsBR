@@ -8,6 +8,9 @@ My main research interests include Operations Research (OR) (with a special focu
 *   (1) modeling efficient disruption of human trafficking networks (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)); and 
 *   (2) methods for estmating the survival signature of heterogeneous networks (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
+### Updates:
+=> Our paper "An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes" was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly!!
+
 I am the current president of the INFORMS Student Chapter at Clemson University (2023-2024) [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/), after having served as its vice-president in the 2022-2023 academic term. I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there.
 
 During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [1](https://www.facebook.com/petengenharias), [2](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program for Engineers), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities.
