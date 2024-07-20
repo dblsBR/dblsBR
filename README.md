@@ -7,14 +7,17 @@ My CV can be found here (last update May 2024): [CV_DanielSilva](https://github.
 
 
 ### Updates:
-* Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly. `This is a really nice paper in general, combining new and classical ideas in a smart way to develop an efficient method to estimate the survival signature of hetereogeneous networks. If you are into reliability, network flow, multi-objective optimization, or even if you are just curious in general, check it out.`
 * I will teach **IE3800 - Deterministic Operations Research** in the upcoming Fall semester.
+* Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly.
+* I successfully completed the IISE Future Faculty Fellow (3F) program, with the closing ceremonies being held the IISE Annual Conference & Expo in Montreal, Canada. This was a superb program, beyond all my expectations.  
+
 
 
 ## Research:
 
 My main research interests include Operations Research (OR) (with a special focus in OR for Social Good) and the theory and applications of network optimization (interdiction, reliability, and resiliency). I am currently working in two really exciting projects: 
-*   (1) modeling efficient disruption of human trafficking networks (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)); and 
+*   (1) modeling efficient disruption of human trafficking networks (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)):
+*   *`This is am incredible transdisciplinary project consisting of researchers (at all levels) from Clemson University, Northeastern University, University of Minnesota, The Research Triangle Institute, as well as a survivor-centered advisory group`
 *   (2) methods for estmating the survival signature of heterogeneous networks (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
 ## Teaching
