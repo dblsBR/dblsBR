@@ -28,10 +28,9 @@ University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/dire
 * _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
 * _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper);
 
-
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
-I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines of future investigation.
+I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies for heterogeneous wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines of future investigation.
 
 
 
