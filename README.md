@@ -17,9 +17,10 @@ My main research interests include Operations Research (OR) (with a special focu
 ## Service, Communities, Outreach
 
 #### INFORMS
-I am the current president of the INFORMS Student Chapter at Clemson University (2023-2024) [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/), after having served as its vice-president in the 2022-2023 academic term (we received the Magna Cum Laude Award 2023). I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there (we received the Cum Laude Award 2022).
+I am the current president of the INFORMS Student Chapter at Clemson University (2023-2024), after having served as its vice-president in the 2022-2023 academic term (we received the Magna Cum Laude Award 2023). Check our social pages to see what we have been up to lately: [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/). I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there (we received the Cum Laude Award 2022).
 
-During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [1](https://www.facebook.com/petengenharias), [2](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program for Engineers), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities.
+### PET Engenharias (Tutorial Education Program in Engineering)
+During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [1](https://www.facebook.com/petengenharias), [2](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program in Engineering), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities. During
 
 
 
