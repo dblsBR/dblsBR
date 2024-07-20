@@ -1,6 +1,6 @@
 # Daniel B Lopes da Silva
 
-Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. My main research interests include Operations Research (OR) (particul OR for Social Good) and the theory and applications of network optimization (interdiction, reliability, and resiliency). I am currently working in two really exciting projects: 
+Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. My main research interests include Operations Research (OR) (with a special focus in OR for Social Good) and the theory and applications of network optimization (interdiction, reliability, and resiliency). I am currently working in two really exciting projects: 
 *   (1) modeling efficient disruption of human trafficking networks (with Dr. [Thomas Sharkey](https://www.clemson.edu/cecas/departments/ie/people/faculty/sharkey.html) and Dr. [Yongjia Song](https://www.clemson.edu/cecas/departments/ie/people/faculty/yongjis.html)); and 
 *   (2) methods for estmating the survival signature of heterogeneous networks (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
