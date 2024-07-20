@@ -20,10 +20,12 @@ My main research interests include Operations Research (OR) (with a special focu
 I am the current president of the INFORMS Student Chapter at Clemson University (2023-2024), after having served as its vice-president in the 2022-2023 academic term (we received the Magna Cum Laude Award 2023). Check our social pages to see what we have been up to lately: [LinkedIn](https://www.linkedin.com/in/informs-clemson-student-chapter-057b62286/), [X(Twitter)](https://twitter.com/ClemsonInforms), [website](https://cecas.clemson.edu/informs/). I have also served as the secretary of the INFORMS Student Chapter at the University of Arkansas during my M.S. program there (we received the Cum Laude Award 2022).
 
 ### PET Engenharias (Tutorial Education Program in Engineering)
-During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [1](https://www.facebook.com/petengenharias), [2](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program in Engineering), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities. During my four-year term at **PET Engenharias**, we did a lot of interesting (and fun) activities and events, including a mentoring program for first-year engineering students, itinerant STEM Fairs at local schools, prep course for a disadvantaged community, pre-calculus course for first-year students, seminars, and much more. See the old and bad-quality pictures below for a flavor of how awesome this program is!
+During my undergraduate years at the [Federal Unviersity of Alagoas](https://ufal.br/) (Brazil), I was a member (and eventually the president) of the PET Engenharias [Facebook](https://www.facebook.com/petengenharias), [Instagram](https://www.instagram.com/pet.engenharias/), [Official Page](https://ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia) (Tutorial Education Program in Engineering), which consisted of a group of students guided by a faculty advisor and tasked with developing research, teaching, and outreach activities.
+
+During my four-year term at **PET Engenharias**, we did a lot of interesting (and fun) activities and events, including a mentoring program for first-year engineering students, itinerant STEM Fairs at local schools, prep course for a disadvantaged community, pre-calculus course for first-year students, seminars, and much more. See the old and bad-quality pictures below for a flavor of how awesome this program is!
 
 
-<img src="https://github.com/dblsBR/dblsBR/blob/0ae4fb3c44dbffc6dd47d898095f9fc415260fa3/PET_1.jpg" width="250">
+<img src="https://github.com/dblsBR/dblsBR/blob/0ae4fb3c44dbffc6dd47d898095f9fc415260fa3/PET_1.jpg" width="350">
 
 
 <!---
