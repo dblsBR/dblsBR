@@ -1,5 +1,5 @@
 # Daniel B Lopes da Silva
-![](https://github.com/dblsBR/dblsBR/blob/dbd0b453ab7a629083d9720d1baa7402be811f7c/Daniel.png) Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. I am passionate about Engineering Education and my long-term career goal is to become a professor. Check out my pages to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/), [X/Twitter](https://twitter.com/DbrunoLopes).
+![]() Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. I am passionate about Engineering Education and my long-term career goal is to become a professor. Check out my pages to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/), [X/Twitter](https://twitter.com/DbrunoLopes).
 
 You can reach me at: dlopesd@clemson.edu.
 
