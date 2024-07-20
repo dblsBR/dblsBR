@@ -31,8 +31,7 @@ University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/dire
 
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
-This is an incredible transdisciplinary project consisting of researchers (at all levels) from Clemson University (advisors Dr. Thomas Sharkey and Dr. Yongjia Song), Northeastern University (advisor Dr. [Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/)),
-University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. Kelle Barrick[https://www.rti.org/expert/kelle-barrick]), as well as a survivor-centered advisory group.
+I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines of future investigation.
 
 
 
