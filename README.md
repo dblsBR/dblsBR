@@ -8,6 +8,7 @@ My CV can be found here (last update May 2024): [CV_DanielSilva](https://github.
 
 ### Updates:
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly. `This is a really nice paper in general, combining new and classical ideas in a smart way to develop an efficient method to estimate the survival signature of hetereogeneous networks. If you are into reliability, network flow, multi-objective optimization, or even if you are just curious in general, check it out.`
+* I will teach **IE3800 - Deterministic Operations Research** in the upcoming Fall semester.
 
 
 ## Research:
@@ -20,7 +21,13 @@ My main research interests include Operations Research (OR) (with a special focu
 
 I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistance for the physics class.
 
-During my bachelor, I had the chance to be an official (and extra-official) TA for a bunch of courses such as introduction to programming, analytical geometry, calculus, and operations research.
+During my bachelor's degree, I had the chance to be an official (and extra-official) TA for a bunch of courses such as introduction to programming, analytical geometry, calculus, and operations research. During my first M.S. degree in Industrial Engineering (Optimization) at the [Federal University of Pernambuco, Brazil](https://www.ufpe.br/en/dep), I was a partial TA for the graph theory class.
+
+During my Ph.D. program in Clemson, I was a TA for:
+* IE 8590 Capstone Design Project (Instructor: Dr. [Ozgur Kabadurmus](https://www.uwec.edu/profiles/kabaduro/))
+* IE 3860 Production Planning and Control (Instructor: Dr. Thomas Sharkey)
+* IE 4460/6460 Modeling and Analysis of Manufacturing Systems (Instructor: Dr. [Bill Ferrell](https://www.clemson.edu/cecas/departments/ie/people/faculty/ferrell.html))
+
 
 ## Service, Communities, Outreach
 
