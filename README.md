@@ -18,7 +18,9 @@ My main research interests include Operations Research (OR) (with a special focu
 
 ## Teaching
 
-I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistance for physics.
+I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistance for the physics class.
+
+During my bachelor, I had the chance to be an official (and extra-official) TA for a bunch of courses such as introduction to programming, analytical geometry, calculus, and operations research.
 
 ## Service, Communities, Outreach
 
