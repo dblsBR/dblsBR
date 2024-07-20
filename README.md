@@ -8,6 +8,7 @@ My CV can be found here (last update July 2024): [CV_DanielSilva](https://github
 
 ### Updates:
 * I will teach **IE3800 - Deterministic Operations Research** in the upcoming Fall semester.
+* I was selected as a [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the 2024 class of [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) and I will be attending this outstanding workshop in July at the Purdue University's West Lafayette Campus.
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly.
 * I successfully completed the IISE Future Faculty Fellow (3F) program, with the closing ceremonies being held the IISE Annual Conference & Expo in Montreal, Canada. This was a superb program, beyond all my expectations.  
 
@@ -23,15 +24,18 @@ This is an incredible transdisciplinary project consisting of researchers (at al
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. Kelle Barrick(https://www.rti.org/expert/kelle-barrick), as well as a survivor-centered advisory group. 
 
 **Papers:**
-
 * _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.)
 * _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
 * _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper);
 
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
-I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies for heterogeneous wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines of future investigation.
+I started to work in this project during my M.S. degree with Dr. Kelly Sullivan at the University of Arkansas, and the original idea was for me to work on developing optimal deployment policies for heterogeneous wireless sensor networks (based on reliability, costs, etc.). Half way through, after reading a nice paper that introduced a *Dijkstra-like* bi-objective algorithm, we shifted focus and started to develop an optimization-based methodology to estimate the survival signature of a network with two component classes. The methodology turned out to be very efficient, flexible, and robust, opening the door for a lot of interesting lines for future investigation.
 
+**Papers:**
+* **Lopes da Silva, D.b., Sharkey, T., Song, Y.**,_A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.)
+* **Lopes da Silva, D.b., Sharkey, T., Song, Y.**,_Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
+* **Lopes da Silva, D.b., Sharkey, T., Song, Y.**,_A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper);
 
 
 ## Teaching
