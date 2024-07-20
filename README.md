@@ -3,7 +3,7 @@ Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industria
 
 You can reach me at: dlopesd@clemson.edu.
 
-My CV can be found here (last update May 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/757fe0444d31240c22ced663ce84c750a5047b28/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
+My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/757fe0444d31240c22ced663ce84c750a5047b28/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
 ### Updates:
@@ -20,6 +20,12 @@ My main research interests include Operations Research (OR) (with a special focu
 
 This is an incredible transdisciplinary project consisting of researchers (at all levels) from Clemson University (advisors Dr. Thomas Sharkey and Dr. Yongjia Song), Northeastern University (advisor Dr. [Kayse Lee Maass](https://coe.northeastern.edu/people/maass-kayse/)),
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. Kelle Barrick(https://www.rti.org/expert/kelle-barrick), as well as a survivor-centered advisory group. 
+
+**Papers:**
+** A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow (We received a positive feedback from the reviewers and area editor; I am working on addressing their comments to submit the revised version soon.)
+** Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
+** A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption (working paper);
+
 
 * (2) methods for estmating the survival signature of heterogeneous networks (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
