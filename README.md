@@ -2,8 +2,9 @@
 
 Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. I am passionate about Engineering Education and my long-term career goal is to become a professor. Check out my pages to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/), [X/Twitter](https://twitter.com/DbrunoLopes).
 
-You can reach me at: dlopesd@clemson.edu
-My CV can be found here (last update May 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/757fe0444d31240c22ced663ce84c750a5047b28/CV_DanielSilva.pdf)
+You can reach me at: dlopesd@clemson.edu.
+
+My CV can be found here (last update May 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/757fe0444d31240c22ced663ce84c750a5047b28/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 ## Research Activities:
 
