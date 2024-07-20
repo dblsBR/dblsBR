@@ -34,7 +34,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 **Papers:**
 * **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (_Forthcoming in_ Naval Research Logistics);
-* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Under review; revised version submitted in July);
+* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Under review; revised version submitted in May 2024);
 
 
 
