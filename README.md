@@ -36,6 +36,13 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 * **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (_Forthcoming in_ Naval Research Logistics);
 * Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Under review; revised version submitted in May 2024);
 
+### Previous Research Activity:
+- During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) this [paper](https://periodicos.uninove.br/exacta/article/view/8612);
+
+### Conference Papers (from my undergraduate years!)
+- Santos, A.C.J., **Lopes da Silva, D.B.**, B. R. Barros, J. A. Amorim. Contributions of cleaner production to a textile industry, in: *XXXIII National Meeting of Industrial Engineering (ENEGEP)*. Bento Goncalves-RS, Brazil, 2012.
+- Santos, K.P., **Lopes da Silva, D.B.**, B. R. Barros, J. A. Amorim. Engineering and Technology Fair: an approach to motivate young students in engineering, in: *XL Brazilian Congress of Engineering Education (COBENGE)*. Belem-PA, Brazil, 2012.
+- **Lopes da Silva, D.B.**, B. R. Barros, J. A. Amorim. Urban trees in the semi-arid region of Alagoas, in: *IV Latin-American Meeting of Sustainable Edifications and Communities (ELECS)*. Vitoria-ES, Brazil, 2011.
 
 
 ## Teaching
