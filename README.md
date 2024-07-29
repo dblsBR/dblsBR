@@ -6,10 +6,10 @@ You can reach me at: dlopesd@clemson.edu.
 My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/be84f9a9c39d32194912a2c0d6fd743da1a2c0f0/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates:
+### Updates (July 2024):
+* Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
 * I will teach **IE3800 - Deterministic Operations Research** in the upcoming Fall semester.
-* I was selected as a [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the 2024 class of [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) and I will be attending this outstanding workshop in July at the Purdue University's West Lafayette Campus.
-* Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** was accepted for publication in [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and will be available online shortly.
+* I compelted the [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) program and I am now an offical [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the class of 2024.
 * I successfully completed the IISE Future Faculty Fellow (3F) program, with the closing ceremonies being held the IISE Annual Conference & Expo in Montreal, Canada. This was a superb program, beyond all my expectations.  
 
 
