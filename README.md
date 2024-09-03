@@ -6,7 +6,7 @@ You can reach me at: dlopesd@clemson.edu.
 My CV can be found here (last update July 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/aea6925868bdd842cb063e438ec563fce51dbd57/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates (July 2024):
+### Updates (September 2024):
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
 * I am teaching **IE3800 - Deterministic Operations Research** this Fall semester and I am extremely excited about it!
 * I compelted the [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) program and I am now an offical [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the class of 2024.
@@ -34,7 +34,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 **Papers:**
 * **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (Naval Research Logistics);
-* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Under review; revised version submitted in May 2024);
+* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Forthcoming in Computers \& Industrial Engineering);
 
 ### Previous Research Activity:
 - During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) this [paper](https://periodicos.uninove.br/exacta/article/view/8612);
