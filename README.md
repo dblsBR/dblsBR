@@ -7,6 +7,7 @@ My CV can be found here (last update July 2024): [CV_DanielSilva](https://github
 
 
 ### Updates (September 2024):
+* Our Clemson University INFORMS Student Chapter was select to be recognized with the Magna Cum Laude Award at the 2024 INFORMS Annual Meeting in Seattle in October!
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
 * I am teaching **IE3800 - Deterministic Operations Research** this Fall semester and I am extremely excited about it!
 * I completed the [Traiblazers in Engineering](https://engineering.purdue.edu/Engr/Trailblazers) program and I am now an offical [fellow](https://engineering.purdue.edu/Engr/Trailblazers/Fellows/2024/Lopes) of the class of 2024.
