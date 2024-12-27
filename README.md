@@ -6,7 +6,8 @@ You can reach me at: dlopesd@clemson.edu.
 My CV can be found here (last update October 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/9a79e946f9d3bccaa1d0e804f35866cbd8e1a44e/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates (October 2024):
+### Updates (December 2024):
+* Our paper **A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow** was accepted for publication at the INFORMS Journal on Computing.
 * I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the 2024 INFORMS Annual Meeting in Seattle.
 * Our Clemson University INFORMS Student Chapter was select to be recognized with the Magna Cum Laude Award at the 2024 INFORMS Annual Meeting in Seattle in October!
 * Our paper (with Dr. Kelly Sullivan, UARK) **An Optimization-Based Monte Carlo Method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes** is published at [NRL](http://doi.org/10.1002/nav.22218).
