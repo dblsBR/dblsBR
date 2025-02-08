@@ -51,7 +51,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 ## Teaching
 
-I am teaching **IE3800 - Deterministic Operations Research** in the Department of Industrial Engineering at Clemson University and I am extremely excited about it. The course is one of the most interesting and engaging and I love to plan the lectures, work on the examples and codes, give lectures and student hours.
+I taught **IE3800 - Deterministic Operations Research** in the Department of Industrial Engineering at Clemson University last Fall Semester and it was an amazing experience. The course is very interesting and engaging and I love to plan the lectures, work on the examples and codes, give lectures and student hours.
 
 I love to teach and I learn a lot by teaching! My first official experience with teaching was when I was in high school. I attended a great technical institute in Brazil, the [Federal Institute of Education, Science, and Technology (Federal Institute for short)](https://www2.ifal.edu.br/campus/palmeira), where I had the chance to be a teaching assistant for the physics class.
 
