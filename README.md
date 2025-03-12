@@ -6,7 +6,7 @@ You can reach me at: dlopesd@clemson.edu.
 My CV can be found here (last update October 2024): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/3af86c8f011e3a48cc7c49a1a68382be982474f8/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates (December 2024):
+### Updates (March 2025):
 * Our paper **A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow** was accepted for publication at the INFORMS Journal on Computing.
 * Our article on **The First Southeast INFORMS Student Chapter Retreat** was published at the Fall-Winter issue of ORMS Tomorrow [ORMS Tomorrow](https://lnkd.in/eahQf8sq).
 * I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the 2024 INFORMS Annual Meeting in Seattle.
@@ -29,8 +29,8 @@ University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/dire
 
 **Papers:**
 * **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (accepted for publication at INFORMS Journal on Computing);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bi-level Network Interdiction Models with Application in Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper).
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bi-level Network Interdiction Models for Effective Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper. I presented part of this research at the 2024 INFORMS Annual Meeting).
 
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
