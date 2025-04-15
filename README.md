@@ -3,7 +3,7 @@ Hi, my name is Daniel and I am a Ph.D. candidate in the [Department of Industria
 
 You can reach me at: dlopesd@clemson.edu.
 
-My CV can be found here (last update March 2025): [CV_DanielSilva](CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
+My CV can be found here (last update March 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/6ee442b07b9eb0384457d83f9e29523f7c30de8f/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
 ### Updates (April 2025):
