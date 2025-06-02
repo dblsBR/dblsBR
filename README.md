@@ -6,10 +6,12 @@ You can reach me at: dlopesd@clemson.edu.
 My CV can be found here (last update March 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/6ee442b07b9eb0384457d83f9e29523f7c30de8f/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates (April 2025):
+### Updates (June 2025):
+* I organized and chaired an awesome session, **OR for Societal Good I**, at the **IISE Annual Conference \& Expo 2025** in Atlanta.
+* I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the **IISE Annual 2025**.
 * Our paper **A Bilevel Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow** was published at INFORMS Journal on Computing [Link](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0423?journalCode=ijoc).
-* I present **A Bilevel Network Intercition Problem with Applications in Human Trafficking Disruption** at the PhD Seminar Series promoted by the INFORMS Student Chapter at Texas Tech University. It was a great experience with very interested students and faculty.
-* I've accepted a position of Assistant Professor of the Department of Mechanical and Industrial Engineering at Florida Polytechnic University starting in August. I am extremely excited about it!
+* I presented **A Bilevel Network Intercition Problem with Applications in Human Trafficking Disruption** at the PhD Seminar Series promoted by the INFORMS Student Chapter at Texas Tech University. It was a great experience with very interested students and faculty.
+* I've accepted a position of **Assistant Professor** of the Department of Mechanical and Industrial Engineering at **Florida Polytechnic University** starting in August. I am extremely excited about it!
 * Our article on **The First Southeast INFORMS Student Chapter Retreat** was published at the Fall-Winter issue of ORMS Tomorrow [ORMS Tomorrow](https://lnkd.in/eahQf8sq).
 * I presented part of our research on a Robust Bi-level Network Interdiction Problem inspired by Human Trafficking Disruption at the 2024 INFORMS Annual Meeting in Seattle.
 * Our Clemson University INFORMS Student Chapter was select to be recognized with the Magna Cum Laude Award at the 2024 INFORMS Annual Meeting in Seattle in October!
