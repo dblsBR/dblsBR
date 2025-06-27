@@ -32,9 +32,9 @@ This is an incredible transdisciplinary project consisting of researchers (at al
 University of Minnesota (advisor Dr. [Laura Martin](https://www.hhh.umn.edu/directory/lauren-martin)), The Research Triangle Institute (Dr. [Kelle Barrick](https://www.rti.org/expert/kelle-barrick)), as well as a survivor-centered advisory group. 
 
 **Papers:**
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bi-level Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (accepted for publication at INFORMS Journal on Computing);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bi-level Network Interdiction Models for Effective Human Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
-* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bi-level Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper. I presented part of this research at the 2024 INFORMS Annual Meeting).
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Bilevel Network Interdiction Problem to Minimize the Number of Active Special Arcs in the Maximum Flow_ (accepted for publication at INFORMS Journal on Computing);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _Bi-objective Bilevel Network Interdiction Models for Effective Sex Trafficking Disruption_ (working paper. I presented some nice results at the 2024 IISE Annual Conference & Expo);
+* **Lopes da Silva, D.B.**, Sharkey, T., Song, Y., _A Robust Bilevel Network Interdiction Problem with Application in Human Trafficking Disruption_ (working paper. I presented part of this research at the 2024 INFORMS Annual Meeting).
 
 2. **Methods for estmating the survival signature of heterogeneous networks** (with Dr. [Kelly Sullivan](https://industrial-engineering.uark.edu/directory/index/uid/ksulliv/name/Kelly-Sullivan/)).
 
