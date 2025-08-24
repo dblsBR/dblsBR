@@ -44,7 +44,7 @@ I started to work in this project during my M.S. degree with Dr. Kelly Sullivan 
 
 **Papers:**
 * **Lopes da Silva, D.B., Sullivan, K.**, _An Optimization-Based Monte Carlo method for Estimating the Two-Terminal Survival Signature of Networks with Two Component Classes_ (Naval Research Logistics);
-* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (Forthcoming in Computers \& Industrial Engineering);
+* Chakrabarty, N., Sullivan, K., **Lopes da Silva, D.B.**, _Time-Based Redeployment of Multiclass Nodes for Reliable Wireless Sensor Network Coverage_ (n Computers \& Industrial Engineering);
 
 ### Previous Research Activity:
 - During my undegraduate capstone project, I investigated supply chain performance metrics and proposed a conceptual framework for performance evaluation. We published our results (in Portguese) this [paper](https://periodicos.uninove.br/exacta/article/view/8612);
