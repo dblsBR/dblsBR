@@ -1,12 +1,13 @@
 # Daniel B Lopes da Silva
-Hi, my name is Daniel and I am an (incoming) Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. I am passionate about Engineering Education and my long-term career goal is to become a transformative researcher and an effective and inspiring professor. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/).
+Hi, my name is Daniel and I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/).
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
 My CV can be found here (last update July 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/05fbf92f1bf3caad5a8481e6bf28580fd9ce7a65/CV_DanielSilva.pdf), and here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 
-### Updates (July 2025):
+### Updates (August 2025):
+* I started my journey as an assistant professor of industrial engineering. I am teaching EGN 4313 - Uncertainty Modeling and Analysis, and EGN 1213 - Engineering Computing: MATLAB Applications for Engineers.
 * I successfuly completed my Ph.D. dissertation defense and effectively completed my Ph.D. program in Industrial Engineering (Operations Research track) at Clemson University. This has been quite a ride! My dissertation focused on bilevel network interdiction models for human trafficking disruption and provides strong methodological developments for planing interventions into human trafficking networks with considerations of traffickers reaction.
 * I organized and chaired an awesome session, **OR for Societal Good I**, at the **IISE Annual Conference \& Expo 2025** in Atlanta.
 * I presented part of our research on a Robust Bilevel Network Interdiction Problem inspired by Human Trafficking Disruption at the **IISE Annual 2025**.
