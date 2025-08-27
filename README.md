@@ -1,5 +1,5 @@
 # Daniel B Lopes da Silva
-Hi, my name is Daniel and I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/).
+Hi, my name is Daniel and I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/). Here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
