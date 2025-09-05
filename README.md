@@ -7,7 +7,7 @@ My CV can be found here (last update August 2025): [CV_DanielSilva](https://gith
 
 
 ### Updates (August 2025):
-* I started my journey as an assistant professor of industrial engineering. I am teaching EGN 4313 - Uncertainty Modeling and Analysis, and EGN 1213 - Engineering Computing: MATLAB Applications for Engineers.
+* I started my journey as an assistant professor of industrial engineering. I am teaching EIN 4313 - Uncertainty Modeling and Analysis, and EGN 1213 - Engineering Computing: MATLAB Applications for Engineers.
 * I successfuly completed my Ph.D. dissertation defense and effectively completed my Ph.D. program in Industrial Engineering (Operations Research track) at Clemson University. This has been quite a ride! My dissertation focused on bilevel network interdiction models for human trafficking disruption and provides strong methodological developments for planing interventions into human trafficking networks with considerations of traffickers reaction.
 * I organized and chaired an awesome session, **OR for Societal Good I**, at the **IISE Annual Conference \& Expo 2025** in Atlanta.
 * I presented part of our research on a Robust Bilevel Network Interdiction Problem inspired by Human Trafficking Disruption at the **IISE Annual 2025**.
