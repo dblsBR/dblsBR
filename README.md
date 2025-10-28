@@ -3,7 +3,7 @@ Hi, my name is Daniel and I am an Assistant Professor in the Department of Mecha
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
-My CV can be found here (last update August 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/5f0a5618e4d94272147436f4477e3751f4bab3f5/CV_DanielSilva.pdf).
+My CV can be found here (last update October 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/5839e8e392d9b663a12a002dce5750ea65af8c78/CV_DanielSilva.pdf).
 
 
 ### Updates (August 2025):
