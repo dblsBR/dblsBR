@@ -6,7 +6,10 @@ You can reach me at: dlopesdasilva@floridapoly.edu.
 My CV can be found here (last update October 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/5839e8e392d9b663a12a002dce5750ea65af8c78/CV_DanielSilva.pdf).
 
 
-### Updates (August 2025):
+### Updates (October 2025):
+* I chaired an amazing session on Disrupting Human Trafficking within the Public Sector Operations Reseach (PSOR) section at the ***2025 INFORMS Annual Meeting** in Atlanta, GA.
+* I presented part of my research on a robust interdiction problem with applications in human trafficking disruption at an invited session on recent advances in network optimization at the ***2025 INFORMS Annual Meeting** in Atlanta, GA.
+* I became a reviewer for Naval Research Logistics and Socio-Economic Planning Sciences. 
 * I started my journey as an assistant professor of industrial engineering. I am teaching EIN 4313 - Uncertainty Modeling and Analysis, and EGN 1213 - Engineering Computing: MATLAB Applications for Engineers.
 * I successfuly completed my Ph.D. dissertation defense and effectively completed my Ph.D. program in Industrial Engineering (Operations Research track) at Clemson University. This has been quite a ride! My dissertation focused on bilevel network interdiction models for human trafficking disruption and provides strong methodological developments for planing interventions into human trafficking networks with considerations of traffickers reaction.
 * I organized and chaired an awesome session, **OR for Societal Good I**, at the **IISE Annual Conference \& Expo 2025** in Atlanta.
