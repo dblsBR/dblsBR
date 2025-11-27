@@ -1,5 +1,5 @@
 # Daniel B Lopes da Silva
-Hi, my name is Daniel and I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/faculty/bios/daniel-bruno-lopes-da-silva/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/). Here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
+Hi there, my name is Daniel and I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/faculty/bios/daniel-bruno-lopes-da-silva/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/). Here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
@@ -7,7 +7,7 @@ My CV can be found here (last update October 2025): [CV_DanielSilva](https://git
 
 
 ### Updates (October 2025):
-* I chaired an amazing session on Disrupting Human Trafficking within the Public Sector Operations Reseach (PSOR) section at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
+* I chaired an amazing session on Disrupting Human Trafficking within the Public Sector Operations Reseach (PSOR) cluester at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
 * I presented part of my research on a robust interdiction problem with applications in human trafficking disruption at an invited session on recent advances in network optimization at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
 * I became a reviewer for **Naval Research Logistics** and **Socio-Economic Planning Sciences**. 
 * I started my journey as an assistant professor of industrial engineering. I am teaching EIN 4313 - Uncertainty Modeling and Analysis, and EGN 1213 - Engineering Computing: MATLAB Applications for Engineers.
