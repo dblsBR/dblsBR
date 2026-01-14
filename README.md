@@ -6,7 +6,8 @@ You can reach me at: dlopesdasilva@floridapoly.edu.
 My CV can be found here (last update October 2025): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/5839e8e392d9b663a12a002dce5750ea65af8c78/CV_DanielSilva.pdf).
 
 
-### Updates (October 2025):
+### Updates (January 2026):
+* I am teaching two incredible courses this semester: EIN 4522 - Systems Modeling and Optimization, and EGN 1008 - Engineering Explorations.
 * I chaired an amazing session on Disrupting Human Trafficking within the Public Sector Operations Reseach (PSOR) cluester at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
 * I presented part of my research on a robust interdiction problem with applications in human trafficking disruption at an invited session on recent advances in network optimization at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
 * I became a reviewer for **Naval Research Logistics** and **Socio-Economic Planning Sciences**. 
