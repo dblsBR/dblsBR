@@ -6,7 +6,8 @@ You can reach me at: dlopesdasilva@floridapoly.edu.
 My CV can be found here (last update April 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/501e7215b7f6765965bbd5d7fbac1a8591a546ca/CV_DanielSilva.pdf).
 
 
-### Updates (March 2026):
+### Updates (April 2026):
+* I presented at the University of Lousiville INFORMS Student Chapter **Job Talks**. It was great conversation.
 * I presented our work on **A Robust Bilevel Interdiction Problem with Applications in Human Trafficking Disruption** at the  **2026 INFORMS Optimization Society Conference** in Atlanta.
 * I presented part of my research on bilevel interdiction models to disrupt human trafficking networks at the Florida Poly graduate seminar series. 
 * I am teaching two incredible courses this semester: EIN 4522 - Systems Modeling and Optimization, and EGN 1008 - Engineering Explorations.
