@@ -6,7 +6,9 @@ You can reach me at: dlopesdasilva@floridapoly.edu.
 My CV can be found here (last update April 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/ec661f15b046c243530ce8604c9fc4f7d6053948/CV_DanielSilva.pdf).
 
 
-### Updates (April 2026):
+### Updates (August 2026):
+* I am teaching three fascinating courses this Fall: EGN 4611 - Engineering Economics, EIN 4313 - Uncertainty Modeling and Analysis, and EIN 4333 - Production and Operations Planning.
+* We are creating the Florida Poly chapter of the Institute of Industrial and Systems Engineers (IISE) and it is my great honor to be its inaugural faculty advisor. I have always been involved with student organizations and I am really excited to work our students to set the foundations for our IISE Chapter!
 * I presented at the University of Lousiville INFORMS Student Chapter **Job Talks**. It was great conversation.
 * I presented our work on **A Robust Bilevel Interdiction Problem with Applications in Human Trafficking Disruption** at the  **2026 INFORMS Optimization Society Conference** in Atlanta.
 * I presented part of my research on bilevel interdiction models to disrupt human trafficking networks at the Florida Poly graduate seminar series. 
