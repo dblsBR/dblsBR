@@ -1,17 +1,18 @@
 # Daniel B Lopes da Silva
-Hi there, my name is Daniel and I am an Assistant Professor in the Department of Mechanical and Industrial Engineering at [Florida Poly](https://floridapoly.edu/faculty/bios/daniel-bruno-lopes-da-silva/). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/). Here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
+Hi there, my name is Daniel and I am an Assistant Professor in the Department of Industrial Engineering at Florida Polytechnic University ([Florida Poly](https://floridapoly.edu/faculty/bios/daniel-bruno-lopes-da-silva/)). I obtained my Ph.D. in the [Department of Industrial Engineering](https://www.clemson.edu/cecas/departments/ie/index.html) at Clemson University. I have always been involved with research, teaching, service and outreach. Check out my LinkedIn page to see some of the nice things I have been doing: [LinkedIn](https://www.linkedin.com/in/daniel-lopes-da-silva-11a9a892/). Here is my [Google Scholar page](https://scholar.google.com/citations?user=5xE4LwUAAAAJ&hl=pt-BR).
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
-My CV can be found here (last update April 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/ec661f15b046c243530ce8604c9fc4f7d6053948/CV_DanielSilva.pdf).
+My CV can be found here (last update August 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/ec661f15b046c243530ce8604c9fc4f7d6053948/CV_DanielSilva.pdf).
 
 
 ### Updates (August 2026):
-* I am teaching three fascinating courses this Fall: EGN 4611 - Engineering Economics, EIN 4313 - Uncertainty Modeling and Analysis, and EIN 4333 - Production and Operations Planning.
-* We are creating the Florida Poly chapter of the Institute of Industrial and Systems Engineers (IISE) and it is my great honor to be its inaugural faculty advisor. I have always been involved with student organizations and I am really excited to work our students to set the foundations for our IISE Chapter!
-* I presented at the University of Lousiville INFORMS Student Chapter **Job Talks**. It was great conversation.
+* I am teaching three great courses this Fall: EGN 4611 - Engineering Economics, EIN 4313 - Uncertainty Modeling and Analysis, and EIN 4333 - Production and Operations Planning.
+* We are creating the Florida Poly chapter of the Institute of Industrial and Systems Engineers (IISE) and it is my great honor to be its inaugural faculty advisor. I have always been involved with student organizations and I am really excited to work with our students to set the foundations for our IISE Chapter!
+* I presented at the University of Louisville INFORMS Student Chapter **Job Talks**. It was great conversation.
 * I presented our work on **A Robust Bilevel Interdiction Problem with Applications in Human Trafficking Disruption** at the  **2026 INFORMS Optimization Society Conference** in Atlanta.
-* I presented part of my research on bilevel interdiction models to disrupt human trafficking networks at the Florida Poly graduate seminar series. 
+* I presented part of my research on bilevel interdiction models to disrupt human trafficking networks at the Florida Poly graduate seminar series.
+* I became a reviewer for **Manufacturing and Service Operations Management (MSOM)** and **OMEGA - The International Journal of Management Sciences**.
 * I am teaching two incredible courses this semester: EIN 4522 - Systems Modeling and Optimization, and EGN 1008 - Engineering Explorations.
 * I chaired an amazing session on Disrupting Human Trafficking within the Public Sector Operations Reseach (PSOR) cluester at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
 * I presented part of my research on a robust interdiction problem with applications in human trafficking disruption at an invited session on recent advances in network optimization at the **2025 INFORMS Annual Meeting** in Atlanta, GA.
