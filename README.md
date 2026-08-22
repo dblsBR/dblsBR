@@ -3,7 +3,7 @@ Hi there, my name is Daniel and I am an Assistant Professor in the Department of
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
-My CV can be found here (last update August 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/ec661f15b046c243530ce8604c9fc4f7d6053948/CV_DanielSilva.pdf).
+My CV can be found here (last update August 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/fadcf10c0690ec24f4c9fb17cca621f29803787e/CV_DanielSilva.pdf).
 
 
 ### Updates (August 2026):
