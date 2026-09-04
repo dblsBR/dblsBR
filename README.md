@@ -7,7 +7,7 @@ My CV can be found here (last update August 2026): [CV_DanielSilva](https://gith
 
 
 ### Updates (August 2026):
-* I am teaching three great courses this Fall: EGN 4611 - **Engineering Economics**, EIN 4313 - **Uncertainty Modeling and Analysis**, and EIN 4333 - **Production and Operations Planning**. I am also co-coordinating  **Engineering Computing: MATLAB Applications for Engineers** this simester! 
+* I am teaching three great courses this Fall: EGN 4611 - **Engineering Economics**, EIN 4313 - **Uncertainty Modeling and Analysis**, and EIN 4333 - **Production and Operations Planning**. I am also co-coordinating  **Engineering Computing: MATLAB Applications for Engineers** this semester! 
 * We are creating the Florida Poly chapter of the Institute of Industrial and Systems Engineers (IISE) and it is my great honor to be its inaugural faculty advisor. I have always been involved with student organizations and I am really excited to work with our students to set the foundations for our IISE Chapter!
 * I presented at the University of Louisville INFORMS Student Chapter **Job Talks**. It was great conversation.
 * I presented our work on **A Robust Bilevel Interdiction Problem with Applications in Human Trafficking Disruption** at the  **2026 INFORMS Optimization Society Conference** in Atlanta.
