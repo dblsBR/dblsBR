@@ -6,7 +6,12 @@ You can reach me at: dlopesdasilva@floridapoly.edu.
 My CV can be found here (last update August 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/fadcf10c0690ec24f4c9fb17cca621f29803787e/CV_DanielSilva.pdf).
 
 
-### Updates (August 2026):
+### Updates (Nov 2026):
+* Our paper Lopes da Silva, Sharkey, Song, Mass, **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption** was accepted for publication at the * *Socio-Economic Policy Sciences (SEPS)* * journal.
+* * I became a reviewer for the **European Journal of Operational Research (EJOR)** and **IISE Transactions**.
+* I organized and chaired a very interesting session in the PSOR track of the 2026 INFORMS Annual Meeting in San Francisco, CA. The session was title **Disrupting Illicit Supply Chains** and we had a very nice mix of presentations.
+* I presented part of my research at the 2026 INFORMS Annual Meeting in San Francisco, CA. The title of my presentation was **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption**.
+* I presented my research at the Department of Industrial and Systems Engineering seminar series at the University of Florida on Oct 30. My presentation was titled **Bilevel Interdiction Models for Human Trafficking Disruption**. Many thanks to Dr. Aleks Kazachkov and the INFORMS Student Chapter for the invitation!
 * I am teaching three great courses this Fall: EGN 4611 - **Engineering Economics**, EIN 4313 - **Uncertainty Modeling and Analysis**, and EIN 4333 - **Production and Operations Planning**. I am also co-coordinating  **Engineering Computing: MATLAB Applications for Engineers** this semester! 
 * We are creating the Florida Poly chapter of the Institute of Industrial and Systems Engineers (IISE) and it is my great honor to be its inaugural faculty advisor. I have always been involved with student organizations and I am really excited to work with our students to set the foundations for our IISE Chapter!
 * I presented at the University of Louisville INFORMS Student Chapter **Job Talks**. It was great conversation.
