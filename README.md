@@ -3,12 +3,12 @@ Hi there, my name is Daniel and I am an Assistant Professor in the Department of
 
 You can reach me at: dlopesdasilva@floridapoly.edu.
 
-My CV can be found here (last update August 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/fadcf10c0690ec24f4c9fb17cca621f29803787e/CV_DanielSilva.pdf).
+My CV can be found here (last update Nov 2026): [CV_DanielSilva](https://github.com/dblsBR/dblsBR/blob/6899c5af8abfe7697421ccb6bef71e5d23b59afa/CV_DanielSilva.pdf).
 
 
 ### Updates (Nov 2026):
-* Our paper Lopes da Silva, Sharkey, Song, Mass, **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption** was accepted for publication at the * *Socio-Economic Policy Sciences (SEPS)* * journal.
-* * I became a reviewer for the **European Journal of Operational Research (EJOR)** and **IISE Transactions**.
+* Our paper Lopes da Silva, Sharkey, Song, Mass, **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption** was accepted for publication at the _Socio-Economic Policy Sciences (SEPS)_ journal.
+* I became a reviewer for the **European Journal of Operational Research (EJOR)** and **IISE Transactions**.
 * I organized and chaired a very interesting session in the PSOR track of the 2026 INFORMS Annual Meeting in San Francisco, CA. The session was title **Disrupting Illicit Supply Chains** and we had a very nice mix of presentations.
 * I presented part of my research at the 2026 INFORMS Annual Meeting in San Francisco, CA. The title of my presentation was **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption**.
 * I presented my research at the Department of Industrial and Systems Engineering seminar series at the University of Florida on Oct 30. My presentation was titled **Bilevel Interdiction Models for Human Trafficking Disruption**. Many thanks to Dr. Aleks Kazachkov and the INFORMS Student Chapter for the invitation!
