@@ -7,7 +7,7 @@ My CV can be found here (last update Nov 2026): [CV_DanielSilva](https://github.
 
 
 ### Updates (Nov 2026):
-* Our paper Lopes da Silva, Sharkey, Song, Mass, **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption** was accepted for publication at the _Socio-Economic Policy Sciences (SEPS)_ journal.
+* Our paper **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption** was accepted for publication at the _Socio-Economic Policy Sciences (SEPS)_ journal.
 * I became a reviewer for the **European Journal of Operational Research (EJOR)** and **IISE Transactions**.
 * I organized and chaired a very interesting session in the PSOR track of the 2026 INFORMS Annual Meeting in San Francisco, CA. The session was title **Disrupting Illicit Supply Chains** and we had a very nice mix of presentations.
 * I presented part of my research at the 2026 INFORMS Annual Meeting in San Francisco, CA. The title of my presentation was **Bi-objective Bilevel Interdiction Models for Sex Trafficking Disruption**.
